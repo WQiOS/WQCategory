@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "WQCategory"
-s.version      = "0.0.3"
+s.version      = "0.0.5"
 s.summary      = "iOS所有项目通用的分类的工具文件"
 s.homepage     = "https://github.com/WQiOS/WQCategory"
 s.license      = "MIT"
